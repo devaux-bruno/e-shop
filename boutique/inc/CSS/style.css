@@ -1,0 +1,85 @@
+#logo{
+    width: 5em;
+}
+body{
+    padding-top:96px;
+    background-color: lightgrey;
+}
+.maincontainer{
+    min-height: calc(100vh - 152px);
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: orange;
+}
+.navbar-dark .navbar-brand {
+    color: orange;
+}
+#footer{
+    color: orange; 
+}
+.form-control {
+    border: 1px solid orange;
+}
+h3{
+    text-align: center;
+}
+.form-check-inline .form-check-input {
+    margin-left: 15%;
+}
+li{
+    list-style: none;
+}
+.nav-tabs .nav-link.active {
+    color: orange;
+}
+.nav-tabs .nav-link {
+    color: #495057;
+}
+.imgModif{
+    height: 25vh;
+}
+.aprofil{
+    color: white;
+    font-size: 15px;
+}
+.aprofil:hover{
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+}
+.lienCard{
+    color: black;
+}
+.lienCard:hover{
+    color: #495057;
+    text-decoration: none;
+}
+.cookies{
+    position: fixed;
+    left: 0;
+    bottom : -70px;
+    width: 100%;
+}
+.vignettecommande{
+    height: 10vh;
+}
+.vignetteprofil{
+    height: 5vw;
+}
+.tablemembre{
+    position:fixed;
+    left: 15vw;
+}
+.nopadding{
+    padding-left: 0;
+    padding-right: 0;
+}
+.vignettephoto{
+    height: 40vh;
+}
+#tablemembre{
+    margin-top: -550px;
+}
+.imgpresentation{
+   width: 70vw;
+}
